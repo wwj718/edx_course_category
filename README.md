@@ -7,6 +7,11 @@ edx 首页课程分类
 *  cource_category是外键
 *  内置教育部的分类标准（可选）
 
+#设计
+*  REST api接口
+*  admin后台可管理
+*  首页使用Vue或React
+
 #协作
 *  分解任务
 *  input/output
