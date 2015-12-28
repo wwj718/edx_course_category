@@ -8,6 +8,7 @@ edx 首页课程分类
 *  内置教育部的分类标准（可选）
 
 #设计
+*  做成django app
 *  REST api接口
 *  admin后台可管理
 *  首页使用Vue或React
